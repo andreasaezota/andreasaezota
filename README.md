@@ -20,11 +20,10 @@ Aunque aún no cuento con experiencia profesional previa en el campo, estoy comp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,html,js,sass,vue,firebase,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,html,js,sass,vue,firebase,vscode," />
   </a>
 </p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
