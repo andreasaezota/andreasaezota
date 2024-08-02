@@ -7,7 +7,7 @@ Soy una desarrolladora front-end en formación con experiencia inicial en Vue.js
 ## Soy de..🏡
 Soy de Santiago, Región Metropolitana, Chile.
 
-## Me medico..👩‍💻
+## Me dedico..👩‍💻
 Actualmente estoy enfocada en mi formación en desarrollo front-end, específicamente con Vue.
 
 ## Mi formacion 💻
